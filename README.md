@@ -3,8 +3,10 @@
 ## Setup
 
 ```
-npm i 
+npm i
+```
 <br>
+```
 npm start
 ```
 
